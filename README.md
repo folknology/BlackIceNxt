@@ -7,7 +7,7 @@ BlackIce Nxt is a new systems board for the myStorm FPGA development board famil
 * 40 Pin FMC Parallel interface expansion
 * QSPI interface to [MidPlane](https://github.com/folknology/IceLogicBus)
 * 3 Micro Blades sockets
-* SDCArd Socket
+* SDCard Socket
 * SWD connector
 * USB-C connector with serial over usb interface
 * RGB Status LED and Mode button
@@ -15,9 +15,9 @@ BlackIce Nxt is a new systems board for the myStorm FPGA development board famil
 ![BlackIce](./BlackIce-Nxt.png)
 ![BlackIce](./BlackIce-Nxt-Schematic.png)
 
-### Black Ice PCB
+### BlackIce PCB
 ![BlackIce](./pcb/BlackIce-Nxt.JPG)
-###Top
+### Top
 ![BlackIce](./pcb/BlackIce-Nxt-top.JPG)
-###Bottom
+### Bottom
 ![BlackIce](./pcb/BlackIce-Nxt-bottom.JPG)
