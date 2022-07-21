@@ -1,5 +1,5 @@
 # BlackIceNxt
-BlackIce Nxt is a new systems board for the myStorm FPGA development board family. I sports the following features:
+BlackIce Nxt is a new systems board for the myStorm FPGA development board family. It sports the following features:
 * STM32F730 216Mhz Arm Cortex 7 Microcontroller with 256K RAM, 64k Flash
 * 64Mbit HypeRam, 128Mbit HyperFlash for the [MidPlane](https://github.com/folknology/IceLogicBus)
 * 16Mbit SPI Flash for local storage
