@@ -30,3 +30,7 @@
 * Connectivity 12 FPGA Digital, 2 Mixed signal, High Power and control.
 * Interchangeable BlackEdge Nxt Controller
 * Complete Compact modularity with Software/Tools
+
+# [BlackEdge NXT https://github.com/folknology/BlackIceNxt/](https://github.com/folknology/BlackIceNxt/)
+
+# [Discord https://discord.gg/SwexczKsqm](https://discord.gg/SwexczKsqm)
